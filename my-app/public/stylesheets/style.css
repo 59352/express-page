@@ -1,0 +1,15 @@
+
+
+
+body {
+  margin: auto;
+  padding: 50px;
+  font-family: 14px, 'Pacifico', cursive;
+  background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+  width: 99vw;
+  height: 99vh;
+  position: center center;
+  width: 50%;
+}
+
+

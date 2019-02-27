@@ -1,0 +1,9 @@
+node_modules/
+public/imeges
+public/javascript
+routes/search.js
+views/sk8.ejs
+views/search.ejs
+views/error2.ejs
+views/error3.ejs
+
